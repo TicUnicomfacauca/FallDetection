@@ -26,8 +26,9 @@ function About(props) {
             <div style={{textAlign:'center'}}>
                   <strong>Investigadores Principales:</strong><br/>
                   <a href="mailto:cristianchilito@unicomfacauca.edu.co">Jóven Investigador Ing. Cristian Duban Chilito</a> <br/>       
-                  <a href="mailto:jfmunoz@unicomfacauca.edu.co">Mg. Julian Fernando Muñoz</a>    <br/>    
-                  <a href="mailto:lerazo@unicomfacauca.edu.co">Mg. Leydi Rocio Erazo</a>      <br/>  
+                  <a href="mailto:jfmunoz@unicomfacauca.edu.co">Mg. Julián Fernando Muñoz</a>    <br/>    
+                  <a href="mailto:lerazo@unicomfacauca.edu.co">Mg. Leydi Rocio Erazo</a>      <br/> 
+                  <a href="mailto:fobando@unicomfacauca.edu.co">Mg. Francisco Obando</a>      <br/>  
                   <a href="mailto:hcastrillon@unicomfacauca.edu.co">PhD. Helder Yesid Castrillón</a> <br/>  
                   <p>Corporación Universitaria Comfacauca - 2020 </p>          
                   <p><a href="https://github.com/TicUnicomfacauca/FallDetection" target="_blank"> Código fuente</a></p>
